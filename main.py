@@ -81,10 +81,6 @@ def clean_dir(path):
 
 
 def main():
-    src = r'H:\Downloads'
-    dst = r'H:\Downloads'
-    # src = r'C:\Users\mjula\FILES-SORT'
-    # dst = r'C:\Users\mjula\Desktop\DST'
     dic = read_group()
 
     create_dirs(src, dst)
