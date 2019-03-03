@@ -1,0 +1,14 @@
+{
+        "docs": ["docx", "pdf", "rtf", "txt", "odt", "ppt", "xlsx", "xlsm"],
+        "images": ["png", "jpg", "jpeg", "bmp", "psd"],
+        "video-audio": ["mp4", "mp3", "wmv", "mov", "flv", "avi"],
+        "archives": ["rar", "zip", "tar", "tar.gz", "7z", "tgz"],
+        "database": ["db", "dbf", "csv", "sql", "mdb"],
+        "exec": ["bat", "exe", "jar", "wsf", "bin", "apk"],
+        "disc-media": ["iso", "vcd", "toast"],
+        "sys": ["bak", "cab", "dll", "dwf", "dmp", "tmp"],
+        "dot-files": ['.'],
+        "internet": ["html", "htm"],
+}
+
+# TODO Add a 'ignored' group or 'random'

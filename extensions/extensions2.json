@@ -1,0 +1,30 @@
+{
+  "Images": {
+    "group_items": ["jpg", "jpeg", "png", "tif", "tiff", "gif", "bmp", "eps", "raw", "cr2", "nef", "orf", "sr2"],
+    "name": "Images",
+  },
+  "Audio": {
+    "group_items": ["pcm", "wav", "mp3", "aiff", "aac", "ogg", "wma", "flac", "alac", "opus"],
+    "name": "Audio"
+  },
+  "Video": {
+    "group_items": ["mov", "mp4", "avi", "flv", "wmv", "webm", "m4a", "m4v"],
+    "name": "Video"
+  },
+  "Documents": {
+    "group_items": ["doc", "docx", "docm"],
+    "name": "Documents"
+  },
+  "PDFS": {
+    "group_items": ["pdf"],
+    "name": "PDFS"
+  },
+  "SpreadSheets": {
+    "group_items": ["xls", "xlsx", "xlsm", "xltx", "xltm", "xlsx", "xlt", "xlm"],
+    "name": "SpreadSheets"
+  },
+  "TextFiles": {
+    "group_items": ["txt", "rtf"],
+    "name": "TextFiles"
+  },
+}

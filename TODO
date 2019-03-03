@@ -1,0 +1,9 @@
+# ToDo one path -> clean that folder up and delete all and have the new structure
+# ToDo add exception for dot files -- file startswith('.') -> group of dotfiles
+# ToDo create a config file
+# ToDo make everything worked based on args, store the exts in some file
+# ToDo passing of paths in dirs.py
+# ToDo archive all the files as a back-up
+# ToDo Create a better README file
+# ToDO re-create the docstring for the functions
+# ToDo configparser remake
