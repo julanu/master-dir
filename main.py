@@ -20,9 +20,15 @@ def get_key(dic, val):
     return None
 
 
-# Find the files with a specific extension and move them to the correct folder
-# Improve working of the function
 def group_files(src, dst, dic):
+    """
+    Find the files with a specific extension and move them to the correct folder
+    Improve working of the function
+    :param src:
+    :param dst:
+    :param dic:
+    :return:
+    """
     list_files = os.walk(src)  # files
 
     for root, _, files in list_files:
